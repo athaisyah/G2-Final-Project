@@ -17,6 +17,8 @@ Main Feature on App:
   6.Postpaid Phone
     - Check Bill
     - Payment
+    
+![react-js-banking](https://github.com/winnie1312/grab/blob/master/grab-landingpage-winnie.gif)
 
 [![Alt text](https://img.youtube.com/vi/vvtrPPhaU-8/0.jpg)](https://www.youtube.com/watch?v=vvtrPPhaU-8)
 
