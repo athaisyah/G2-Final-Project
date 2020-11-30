@@ -18,11 +18,8 @@ Main Feature on App:
     - Check Bill
     - Payment
 
-<iframe width="560" height="315"
-src="https://youtu.be/vvtrPPhaU-8" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[![Alt text](https://img.youtube.com/vi/vvtrPPhaU-8/0.jpg)](https://www.youtube.com/watch?v=vvtrPPhaU-8)
+
 
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/vvtrPPhaU-8)
 
