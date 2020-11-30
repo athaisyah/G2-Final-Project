@@ -11,18 +11,17 @@ Main Feature on App:
   2. Login
   3. Logout
   4. View Balance
-  5.Telephone/ Telkom
+  5. Telephone/ Telkom
       - Check Bill
       - Payment
-  6.Postpaid Phone
+  6. Postpaid Phone
       - Check Bill
       - Payment
-    
+
+# React JS Banking
 ![react-js-banking](https://github.com/athaisyah/G2-Final-Project/blob/resources/ReactJS-BankingApp.gif)
 
-[![Alt text](https://img.youtube.com/vi/vvtrPPhaU-8/0.jpg)](https://www.youtube.com/watch?v=vvtrPPhaU-8)
+# React Native Banking
+![react-js-banking](https://github.com/athaisyah/G2-Final-Project/blob/resources/ReactNative-Banking%20App.gif)
 
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/vvtrPPhaU-8)
-
-https://youtu.be/vvtrPPhaU-8
