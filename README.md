@@ -12,13 +12,13 @@ Main Feature on App:
   3. Logout
   4. View Balance
   5.Telephone/ Telkom
-    - Check Bill
-    - Payment
+      - Check Bill
+      - Payment
   6.Postpaid Phone
-    - Check Bill
-    - Payment
+      - Check Bill
+      - Payment
     
-![react-js-banking](https://github.com/winnie1312/grab/blob/master/grab-landingpage-winnie.gif)
+![react-js-banking](https://github.com/athaisyah/G2-Final-Project/blob/resources/ReactJS-BankingApp.gif)
 
 [![Alt text](https://img.youtube.com/vi/vvtrPPhaU-8/0.jpg)](https://www.youtube.com/watch?v=vvtrPPhaU-8)
 
