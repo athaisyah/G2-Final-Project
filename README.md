@@ -5,6 +5,20 @@ This final project of creating a Banking App with Two main Programing Language:
   2. Javascript for Frontend
       - React Js
       - React Native
+      
+Branch division:
+  1. backend-banking-project
+        - backend-banking : main backend
+        - telephone : server telephone
+        - phone : server phone
+  2. frontend-banking-project
+        - reactjs : frontend-banking
+        - react native : BankingProject
+  3. resources
+        - API Documentation
+        - Presentation Slide
+        - Video
+        - SQL
 
 Main Feature on App:
   1. Registration
