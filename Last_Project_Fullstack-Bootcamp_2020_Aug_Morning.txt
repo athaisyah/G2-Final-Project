@@ -1,0 +1,77 @@
+﻿* Registrasi Web Banking
+* Login/Logout
+* Informasi Saldo
+
+Features
+A. Mutasi Rekening
+B. Transfer Antar Rekening
+C. Transfer Antar Bank
+D. Transfer ke Virtual Account 
+E. Payment Kartu Kredit
+F. Payment Handphone (Pascabayar)
+G. Payment Telephone (Telkom/Telephone Lokal)
+H. Payment PLN (Pascabayar)
+I. Payment PDAM 
+J. Payment BPJS
+K. Pembelian Voucher Handphone (Prabayar)
+L. Pembelian Voucher PLN (Prabayar)
+
+
+1. Jason
+* Registrasi Web Banking
+* Login/Logout
+* Informasi Saldo
+A. Mutasi Rekening
+	- Masukan tanggal ?? - ?? misal (05/02/2020-10/02/2020), Tanggal pertama tidak boleh lebih dari 30 hari tanggal sekarang, rentang tanggal pertama dan kedua juga tidak boleh lebih dari 30 hari dan bukan tanggla sekarang.
+B. Transfer Antar Rekening
+
+
+2. Fawwaz
+* Registrasi Web Banking
+* Login/Logout
+* Informasi Saldo
+C. Transfer Antar Bank (2 Bank Lain)
+D. Transfer ke Virtual Account (Marketplace, E-Wallet (Gopay/Ovo)) 
+
+
+3. Fauzan
+* Registrasi Web Banking
+* Login/Logout
+* Informasi Saldo
+K. Pembelian Voucher Handphone (Prabayar Pulsa dan Paket Data)
+	- Pilih Pulsa atau Paket Data
+	- Pilih Operator, Masukan No Telp dan melakukan request ke server “dummy” sesuai operator dan “Pulsa/Paket Data” yang disediakan oleh operator.
+	- Pilih Jumlah Pulsa (XL: 10.000, 50.000, 100.000, 150.000) (INDOSAT: 15.000, 25.000, 50.000, ?)
+
+
+4. Taufiq
+* Registrasi Web Banking
+* Login/Logout
+* Informasi Saldo
+H. Payment PLN (Pascabayar)
+	- Masukan No PLN, aplikasi akan berkomunikasi dengan server “dummy” dan memberitahu jumlah tagihan PLN yang harus dibayar.
+L. Pembelian Voucher PLN (Prabayar)
+	- Masukan No Token dan melakukan request ke server “dummy”, server tidak tersedia pada jam 1:00 AM - 2:00 AM.
+	- Pilih Jumlah Pembayaran KWH (10.000, 50.000, 100.000, 200.000, ?)
+
+
+5. Aisah
+* Registrasi Web Banking
+* Login/Logout
+* Informasi Saldo
+F. Payment Handphone (Pascabayar) - 3 Provider (Indosat, XL, Telkomsel)
+	- Pilih Operator, Masukan No Telp dan melakukan request ke server “dummy” sesuai operator dan memberitahu jumlah tagihan telepon yang harus dibayar.
+G. Payment Telephone (Telkom/Telephone Lokal)
+	- Masukan No Telp Lokal, aplikasi akan berkomunikasi dengan server “dummy” Telkom dan memberitahu jumlah tagihan telepon yang harus dibayar.
+
+
+6. Rifqi
+* Registrasi Web Banking
+* Login/Logout
+* Informasi Saldo
+J. Payment BPJS
+	- Masukan No PAM/BPJS, aplikasi akan berkomunikasi dengan server “dummy” dan memberitahu jumlah tagihan yang harus dibayar beserta informasi atas nama siapa tagihan tersebut.
+I. Payment PDAM 
+	- Masukan No PAM/BPJS, aplikasi akan berkomunikasi dengan server “dummy” dan memberitahu jumlah tagihan yang harus dibayar beserta informasi atas nama siapa tagihan tersebut.
+
+
